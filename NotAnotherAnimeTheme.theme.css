@@ -1,9 +1,9 @@
 /**
-* @name NotAnotherAnimeTheme
-* @author puckzxz#2080
-* @version 3.2
-* @description An easily customizable and automatically updating theme
-* @invite FdZhbjY
+* @name One Piece Theme
+* @author .taxevasion.
+* @version 
+* @description i love one piece
+* @invite Y8Tpy4kf
 * @source https://github.com/puckzxz/NotAnotherAnimeTheme
 * @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
@@ -26,7 +26,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(181, 67, 67);
 
   /*
     Main Theme Transparency
@@ -65,9 +65,9 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(250, 166, 26, 0.05);
-  --mention-sider: rgba(250, 166, 26, 1);
-  --mention-hover-color: rgba(250, 166, 26, 0.08);
+  --mention-color: rgba(181, 67, 67, 0.05);
+  --mention-sider: rgba(181, 67, 67, 1);
+  --mention-hover-color: rgba(255, 70, 70, 0.08);
 
   /*
     Server category hover color
