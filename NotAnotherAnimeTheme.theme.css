@@ -26,7 +26,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(240, 50, 50);
+  --main-theme-color: rgb(181, 27, 27);
 
   /*
     Main Theme Transparency
@@ -72,13 +72,13 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(255, 70, 70,);
+  --category-hover-color: rgb(212, 34, 34,);
 
   /*
     Change the unread server animation.
     Replace it with "none" in order to remove any animations and use the main color instead
   */
-  --unread-server-animation: rainbow;
+  --unread-server-animation: Red;
 
   /*
     Video / Screen share buttons
