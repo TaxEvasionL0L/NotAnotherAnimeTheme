@@ -26,7 +26,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(181, 67, 67);
+  --main-theme-color: rgb(240, 50, 50);
 
   /*
     Main Theme Transparency
@@ -65,14 +65,14 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(181, 67, 67, 0.05);
+  --mention-color: rgba(181, 67, 67, 0.5);
   --mention-sider: rgba(181, 67, 67, 1);
   --mention-hover-color: rgba(255, 70, 70, 0.08);
 
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(255, 70, 70,);
 
   /*
     Change the unread server animation.
